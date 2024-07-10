@@ -1,7 +1,3 @@
-Sure! Here's the updated README file incorporating the results from your various models and evaluations:
-
----
-
 # LLM Project
 
 ## Project Task
